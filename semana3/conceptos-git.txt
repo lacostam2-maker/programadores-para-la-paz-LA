@@ -1,0 +1,4 @@
+•	Repositorio: Es como una carpeta donde se guarda un proyecto y todos sus archivos, además del historial de cambios que haces. 
+•	Commit: Es guardar un “punto de control” del proyecto, es decir, registrar los cambios realizados para no perderlos. 
+•	Push: Es enviar esos cambios guardados (commits) a un repositorio en internet (como GitHub) para que estén respaldados
+o se puedan compartir.
