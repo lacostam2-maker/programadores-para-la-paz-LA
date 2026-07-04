@@ -1,0 +1,16 @@
+1. ¿Qué 2 tareas del backlog harías primero?
+- Tarea 1: Registro de incidencias por parte del ciudadano con
+foto y ubicación.
+- Tarea 2: Cambio de estado del reporte por parte del veedor
+ comunitario.
+2. ¿Por qué son las más importantes?
+Porque ambas conforman el Producto Mínimo Viable (MVP) de la solución 
+de veeduría. La primera permite que el problema sea capturado 
+y formalizado en la plataforma.
+3. ¿Qué significa para ti que una tarea esté “terminada”?
+Significa que la funcionalidad se ha programado y verificado por
+completo al proyecto sin afectar lo que ya existía.
+Escribe una definición simple de terminado con al menos 3 criterios. 
+1. Funciona correctamente
+2. Fue probada.
+3. Quedó registrada en Git

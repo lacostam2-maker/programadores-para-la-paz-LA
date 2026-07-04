@@ -1,0 +1,16 @@
+• ¿Qué evento activa el flujo?
+El flujo (Trigger o Webhook en n8n) se activa automáticamente en 
+el momento exacto en que un ciudadano completa y envía con éxito el 
+formulario de registro de un nuevo reporte de veeduría en el sistema.
+• ¿Qué mensaje se enviaría a Telegram?
+-Nuevo reporte de veeduría registrado.
+-Mantenimiento de espacio público.
+-Estado inicial: Recibido.
+-Por favor, ingresar a la plataforma de veeduría para validar 
+los detalles y asignar un gestor.
+• ¿Qué información no debería enviarse por seguridad?
+- Nombre y apellidos completos.
+- Número de documento de identidad.
+- Número de teléfono celular o fijo personal.
+- Correo electrónico.
+- Dirección exacta de residencia.

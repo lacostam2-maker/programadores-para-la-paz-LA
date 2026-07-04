@@ -1,0 +1,12 @@
+1. Como ciudadano, quiero registrar una incidencia adjuntando 
+una fotografía y la ubicación del problema para dejar evidencia visual 
+del caso ante la comunidad.
+2. Como veedor comunitario, quiero cambiar el estado de un reporte 
+("En revisión", "Escalado", "Resuelto") para hacer seguimiento
+al avance de la gestión.
+3. Como coordinador del comité, quiero recibir una alerta instantánea
+en Telegram cuando se registre una incidencia urgente para evaluarla 
+lo antes posible.
+4. Como miembro de la comunidad, quiero consultar el listado público 
+de incidencias resueltas para verificar la efectividad
+de las soluciones en el barrio.

@@ -1,0 +1,14 @@
+Pregunta 1 — Selección múltiple
+¿Qué es un backlog en un proyecto de software?
+B.	Una lista priorizada de tareas o funcionalidades por desarrollar.
+Pregunta 2 — Selección múltiple
+¿Qué describe mejor una historia de usuario?
+B.	Una forma breve de expresar qué necesita un usuario y para qué 
+lo necesita.
+Pregunta 3 — Selección múltiple
+¿Cuál es el propósito principal de n8n en esta semana?
+B.	Automatizar tareas repetitivas y notificaciones de
+ seguimiento no sensibles
+Pregunta 4 — Selección múltiple
+¿Para qué puede servir Telegram en esta semana?
+B.	Como canal de coordinación, convocatoria y notificación comunitaria.
