@@ -1,0 +1,12 @@
+Durante este curso aprendí que la tecnología puede ayudar a fortalecer
+ la participación ciudadana y la organización comunitaria. 
+ También entendí la importancia de crear herramientas fáciles de usar 
+ para todas las personas. Aprendí que es necesario proteger los datos 
+ personales y respetar la privacidad de los usuario.
+ Conocí cómo organizar la información en bases de datos y cómo 
+ automatizar tareas con herramientas como n8n o Telegram. 
+ También, comprendí que la planificación y el trabajo en equipo 
+ son fundamentales para desarrollar proyectos útiles. 
+Todo esto me permitió entender que la tecnología puede generar un 
+ impacto positivo cuando se utiliza de forma responsable para resolver
+necesidades de la comunidad.

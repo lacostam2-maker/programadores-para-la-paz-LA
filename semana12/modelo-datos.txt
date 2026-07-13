@@ -1,0 +1,20 @@
+Modelo básico de datos con al menos dos entidades.
+Entidad: Causa
+
+id
+titulo
+descripcion
+fecha
+
+Sirve para almacenar la información de cada petición creada por 
+los ciudadanos.
+
+Entidad: Apoyo
+
+id
+causa_id
+nombre
+fecha
+
+Sirve para registrar las personas que apoyan una causa y relacionarlas
+con la petición correspondiente.
